@@ -1,0 +1,30 @@
+.container-flex
+{
+    padding: 2rem 15rem;
+    background: linear-gradient(to right, #ff3300 0%, #000000 120%);
+}
+
+button
+{
+    width: 30rem;
+    text-align: left;
+}
+
+h1
+{
+    font-family: 'Lexend Giga', sans-serif;
+}
+
+hr
+{
+    height:2px;
+    border-width:0;
+    color:gray;
+    background-color:black;
+}
+
+a
+{
+    text-decoration: none;
+    color: whitesmoke;
+}

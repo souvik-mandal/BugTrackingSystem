@@ -1,0 +1,44 @@
+body
+{
+    background: linear-gradient(to right, #ff4d4d 0%, #000000 100%);
+}
+
+.container-flex
+{
+    text-align: center;
+    padding-top: 5rem;
+    background: linear-gradient(to right, #ff4d4d 0%, #000000 100%);
+}
+
+h1
+{
+    font-family: "Comfortaa",cursive;
+    text-align: left;
+    padding-left: 15rem;
+    color: white;
+}
+
+hr
+{
+    height:2px;
+    border-width:0;
+    color:gray;
+    background-color:black;
+}
+
+.col-3
+{
+    text-align: left;
+}
+
+input
+{
+    padding: 3px 10px;
+    border-radius: 5px;
+    border-width: 1px;
+}
+
+.btn
+{
+    padding: 5px 15px;
+}

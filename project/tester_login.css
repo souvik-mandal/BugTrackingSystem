@@ -1,0 +1,30 @@
+body
+{
+    background: linear-gradient(to right, #ff3300 0%, #000000 120%);
+}
+
+.form-control
+{
+    max-width: 20rem;
+    
+}
+
+.container-flex
+{
+    text-align: center;
+    padding-top: 5rem;
+    background: linear-gradient(to right, #ff3300 0%, #000000 120%);
+}
+
+.inputs
+{
+    text-align: center;
+    margin: auto;
+}
+
+input
+{
+    border-radius: 5px;
+    border-width: 1px;
+    padding: 5px 20px;
+}

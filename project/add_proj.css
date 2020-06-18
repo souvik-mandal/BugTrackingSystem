@@ -1,0 +1,40 @@
+body
+{
+    background: linear-gradient(to right, #ff4d4d 0%, #000000 100%);
+}
+
+.container-flex
+{
+    padding: 7rem 3rem;
+    background: linear-gradient(to right, #ff4d4d 0%, #000000 100%);
+    text-align: center;
+}
+
+h1
+{
+    text-align: center;
+    color: white;
+    font-family: "Comfortaa",cursive;
+}
+
+hr
+{
+    height:2px;
+    border-width:0;
+    color:gray;
+    background-color:black;
+}
+
+label
+
+{
+    font-size: 30px;
+    padding-right: 50px;
+}
+
+input
+{
+    border-radius: 4px;
+    border-width: 1px;
+    padding: 5px 15px;
+}

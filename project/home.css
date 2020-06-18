@@ -1,0 +1,52 @@
+.nav-item
+{
+    padding-left: 50px;
+}
+.card-container
+{
+    background: linear-gradient(to right, #ff3300 0%, #000000 120%); 
+}
+body
+{
+    background: linear-gradient(to right, #ff3300 0%, #000000 120%);
+}
+.brand-container h1
+{
+    font-family: 'Bangers';
+    padding-top: 20px;
+}
+
+.top-img
+{
+    height: 100px;
+    width: 100px;
+}
+
+.card-container
+{
+    padding-top: 4rem;
+    padding-left: 8rem;
+}
+
+.card
+{
+    background-color: #595959;
+    color: white;
+}
+
+.brand-container
+{
+    background: linear-gradient(to right, #ff3300 0%, #000000 120%);
+}
+.side-img
+{
+    width: 20rem;
+    
+}
+
+.side-col
+{
+    border-left-style: solid;
+    border-left-color: black;
+    border-left width: 2px;
+}

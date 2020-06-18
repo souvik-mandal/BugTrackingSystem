@@ -1,0 +1,32 @@
+body
+{
+    background-color:#e6e6e6;
+}
+
+.container
+{
+    margin: 30px 50px;
+}
+
+.top_img h1
+{
+    margin: auto;
+    text-align: center;
+}
+
+.top_img
+{
+    align-content: center;
+    padding: 20px 0px;
+}
+
+.create_ac_btn a
+{
+    text-align: center;
+    text-decoration: none;
+}
+
+.create_ac_btn
+{
+    padding-top: 40px;
+}
